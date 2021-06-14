@@ -14,6 +14,6 @@
   "is_add_show": "true",
   "is_livemode": "true",
   "splash_ad_type": "AppOpen",
-  "spellings": "AppOpen,Interstitial,Native"
+  "spellings": "AppOpen,Interstitial,Native",
   "test": "changes in json with error"
 }
